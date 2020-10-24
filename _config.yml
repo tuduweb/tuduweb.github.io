@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: ''
+title: onebinary's blog | 一只斌
+subtitle: '一只斌'
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: bin
+language: zh-CN
 timezone: ''
-url: 'http://example.com'
+url: 'https://tuduweb.github.io/'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null

@@ -217,13 +217,13 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: onebinary
         # Author title
-        author_title: Your title
+        author_title: Master of CS
         # Author's current location
-        location: Your location
+        location: Hunan,China
         # URL or path to the avatar image
-        avatar: 
+        avatar: 'static/avatar.jpeg'
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
