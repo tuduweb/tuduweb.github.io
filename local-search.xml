@@ -4,13 +4,50 @@
   
   
   <entry>
-    <title>Hello Worlds</title>
-    <link href="/2021/01/16/hello-world/"/>
-    <url>/2021/01/16/hello-world/</url>
+    <title>2021年寒假计划</title>
+    <link href="/posts/60044.html"/>
+    <url>/posts/60044.html</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年的寒假还是到来了，曲曲折折，还是选择了留在学校，这是第N年选择留校了。</p><h2 id="留校时间"><a href="#留校时间" class="headerlink" title="留校时间"></a>留校时间</h2><p>进入研究生生活，今年开学很晚，在10月10日才开学，而在1月14日考完最后一门就基本宣告放假了。</p><p>本学期，放假时间是在2021/1/18到2021/2/28。</p><p>留校呢，从1月14日开始算起吧。</p><h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><p>寒假主要还是要以Github的push信息为记录，现在正式开始写博客了，那也要在博客里写一些东西。</p><p>也希望自己能用“相机”（暂时还没买，手机代替）记录一些生活中美好的事物、景色！脑子不够用就只能图片来凑了。希望能找到自己记录生活、记录学习的方式，然后正式开始，从现在开始!</p><p>自己有一个目标，就是每天、每周、每月用一张到几张图描绘，这样既一眼能知晓自己某天的心情是什么，也会更有一种艺术性，离艺术小w的目标好像又近了一点点呢!</p><p>自己其实有很多计划，暂时还没理清楚一二三四，只知道，自己要记录下来，这样才不会空空空的过每一天！空空如也~不行！</p><h2 id="期待"><a href="#期待" class="headerlink" title="期待"></a>期待</h2><p>希望在这个寒假能学到东西！而不是天天就是机械性的“上下班”。</p><p>希望自己不要再因为19年底到，20年的原因改变的心境，束缚住自己了。</p><p><b>不花钱，不体会花钱的快乐，怎么赚钱呢？</b></p><p>钱是赚出来的不是省出来的!</p>]]></content>
     
     
+    <categories>
+      
+      <category>计划</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>计划</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2020年度总结</title>
+    <link href="/posts/41840.html"/>
+    <url>/posts/41840.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>日记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>总结</tag>
+      
+    </tags>
     
   </entry>
   
