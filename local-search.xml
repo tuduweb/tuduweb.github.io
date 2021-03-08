@@ -8,9 +8,15 @@
     <link href="/posts/11816.html"/>
     <url>/posts/11816.html</url>
     
-    <content type="html"><![CDATA[<h2 id="FFMPEG安装"><a href="#FFMPEG安装" class="headerlink" title="FFMPEG安装"></a>FFMPEG安装</h2><p>在网上找的大多数win10下ffmpeg安装方法已经过期，<a href="https://ffmpeg.zeranoe.com/builds/">https://ffmpeg.zeranoe.com/builds/</a> 网站已经无法打开。经过测试，发现在 <a href="https://www.gyan.dev/ffmpeg/builds/">https://www.gyan.dev/ffmpeg/builds/</a> 网站下，下载ffmpeg-release-full-shared.7z版本，亦可达到之前方法的效果。</p><p>下载完成解压后，把./bin目录添加到系统环境变量里，也可以达到相同的效果。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="FFMPEG的安装、配置"><a href="#FFMPEG的安装、配置" class="headerlink" title="FFMPEG的安装、配置"></a>FFMPEG的安装、配置</h2><p>在网上找的大多数在win10下配置ffmpeg环境的方法已经过期，因为<a href="https://ffmpeg.zeranoe.com/builds/">https://ffmpeg.zeranoe.com/builds/</a> 网站已经无法打开。经过实际测试，发现在 <a href="https://www.gyan.dev/ffmpeg/builds/">https://www.gyan.dev/ffmpeg/builds/</a> 网站下，下载ffmpeg-release-full-shared.7z版本，解压后使用目录下的./bin/，./lib/，./include/亦可。</p><p>下载完成解压后，把./bin目录添加到系统环境变量里，在cmd界面下键入<code>ffmpeg -v</code>，如果有显示那么配置成功。</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>FFmpeg</tag>
+      
+    </tags>
     
   </entry>
   
