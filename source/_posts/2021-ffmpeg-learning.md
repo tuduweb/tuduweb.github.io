@@ -1,7 +1,8 @@
 ---
 title: 2021-ffmpeg-learning
-date: 2021-03-07 15:54:35
 tags: FFmpeg
+abbrlink: 11816
+date: 2021-03-07 15:54:35
 ---
 
 ## FFMPEG的安装、配置
