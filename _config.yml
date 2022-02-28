@@ -69,5 +69,5 @@ ignore: null
 theme: fluid
 deploy:
   type: git
-  repo: https://github.com/tuduweb/tuduweb.github.io
+  repo: git@github.com:tuduweb/tuduweb.github.io.git
   branch: gh-pages
