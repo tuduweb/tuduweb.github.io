@@ -1,5 +1,5 @@
 ---
-title: 2022-first-day-of-school
+title: 2022：开学即失眠
 tags: 日记
 abbrlink: 29263
 date: 2022-03-01 06:26:02
